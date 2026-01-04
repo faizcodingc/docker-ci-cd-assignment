@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project demonstrates a containerized web application deployed using Docker and Docker Compose, along with a CI/CD pipeline implemented using Jenkins.
 
+## Live Access
+- Frontend Application URL: http://3.110.219.188
+- Backend API: http://3.110.219.188:5000
+
 The objective of this assignment is to showcase DevOps skills including:
 - Containerization
 - Reverse proxy using Nginx
